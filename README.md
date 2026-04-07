@@ -18,7 +18,7 @@
 ## Screenshots
 
 
-![Screenshot (62)](https://github.com/kumarAmar882/crypto_hunting/assets/65217388/437ea53e-3a40-4bf8-9918-1e4983a90b64)
+
 
 ![Screenshot (63)](https://github.com/kumarAmar882/crypto_hunting/assets/65217388/535550ec-edfd-4a80-9cf3-81b9109d1075)
 
