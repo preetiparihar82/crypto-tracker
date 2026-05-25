@@ -1,4 +1,4 @@
-# Crypto Hunter - MERN Stack Web App
+# Crypto Verse - MERN Stack Web App
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-  **Crypto Hunter is a full-stack web application for tracking and analyzing cryptocurrency data. This project is built using the MERN (MongoDB, Express.js, React, Node.js) stack.**
+  **Crypto Verse is a full-stack web application for tracking and analyzing cryptocurrency data. This project is built using the MERN (MongoDB, Express.js, React, Node.js) stack.**
 
 ## Features
 
