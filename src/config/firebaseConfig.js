@@ -1,15 +1,12 @@
+const firebaseConfig = {
+  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
+  authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
+  databaseURL: process.env.REACT_APP_FIREBASE_DATABASE_URL,
+  projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.REACT_APP_FIREBASE_APP_ID,
+  measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID
+};
 
-
-  const firebaseConfig = {
-    apiKey: "AIzaSyDdwoIiag-2vS7ljLqiK_Y5yqsRbMZVpmk",
-    authDomain: "crypto-8ddf7.firebaseapp.com",
-    databaseURL: "https://crypto-8ddf7-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "crypto-8ddf7",
-    storageBucket: "crypto-8ddf7.appspot.com",
-    messagingSenderId: "635110986095",
-    appId: "1:635110986095:web:c15d60f5f56d9b5026189a",
-    measurementId: "G-J6PE02XD2Y"
-  };
-
-
-  export default firebaseConfig;
+export default firebaseConfig;
